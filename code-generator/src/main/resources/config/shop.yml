@@ -1,0 +1,21 @@
+projectName: shop #多项目的时候模块名
+multiple: true #是否多模块项目
+templateDir: /template/jpa #代码模块文件夹
+entityPackage: com.nbsaas.boot.shop.data.entity
+entities:
+  - Shop
+#  - ShopCash
+  - ShopCatalog
+#  - ShopCoupon
+#  - ShopCouponVideo
+#  - ShopCut
+#  - ShopImage
+#  - ShopMaterial
+#  - ShopMaterialCatalog
+#  - ShopStaff
+#  - ShopTask
+#  - ShopTaskCut
+#  - ShopVideo
+  - ShopSign
+outputPath: E:\codes\nbsaas\nbsaas-model #项目根目录
+basePackage: com.nbsaas.boot #基础包名

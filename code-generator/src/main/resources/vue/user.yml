@@ -1,0 +1,6 @@
+templateDir: /template/vue #代码模块文件夹
+entityPackage: com.nbsaas.boot.user.data.entity
+entities:
+  - Structure
+outputPath: E:\codes\vue3\nbsaas-sample-admin #项目根目录
+basePackage: com.nbsaas.boot #基础包名
